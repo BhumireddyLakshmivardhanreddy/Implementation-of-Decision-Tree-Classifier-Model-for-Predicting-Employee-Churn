@@ -54,12 +54,24 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
+![Image-1](https://github.com/user-attachments/assets/63d8de02-c292-4ae0-ae86-0048664fbabb)
 
-![319277847-fa4bf578-75b3-4a80-88e3-dd2571f963c6](https://github.com/user-attachments/assets/df474c23-0e64-47c9-a243-1ad14db07d21)
+![Image-2](https://github.com/user-attachments/assets/6df4f2cb-692e-4728-9157-b745c3970dd6)
 
-![319278352-383238e4-b8fc-4a1b-af03-bad654be3103](https://github.com/user-attachments/assets/72109f0f-5422-4a3f-bc1e-71704d29d791)
+![Image-3](https://github.com/user-attachments/assets/d45b4086-005f-4e6c-90b2-ecff57cbebdc)
 
-![319279293-ee3d2dd0-989b-47fd-88ab-12908477c844](https://github.com/user-attachments/assets/ac6fa5eb-9c15-452c-8d25-04271b8bd39c)
+![Image-4](https://github.com/user-attachments/assets/0bd4e6a5-c748-42ea-9cd5-afe8c20a3857)
+
+![Image-5](https://github.com/user-attachments/assets/06ea0246-1bee-43f8-a96b-5dd8bdd032de)
+
+![Image-6](https://github.com/user-attachments/assets/45c2ff77-9abf-4bb5-ba9d-4a3558f3d6b2)
+
+![Image-7](https://github.com/user-attachments/assets/5c9c98be-e26c-41af-9a1f-3c5c7e166659)
+
+![Image-8](https://github.com/user-attachments/assets/99637a0f-92f9-435a-9e00-eb680cc17741)
+
+
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
